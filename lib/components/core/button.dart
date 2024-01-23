@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class Button extends StatelessWidget {
-  const Button({
+  Button({
     Key? key,
     required this.text,
     required this.onPressed,
